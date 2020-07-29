@@ -27,7 +27,7 @@ When starting to code, we usually want to right a lot of code. But, actually, we
 ## 11 Work in ``different kinds of projects`` with ``different technologies`` and ``architectures``. Staying in the same architecture for a long time do not help us to improve our coding skills.
 
 # The ``gap`` between a ``junior dev`` and a ``mid-level dev``
-After coding for some time in a company or in any association, we start to learn new ways (``better ways``) to do what we intend to do. This is exactly the gap between a junior dev and a mid-level dev. Is is the technologies that a mid-level dev knows that a junior dev does not. 
+After coding for some time in a company or in any association, we start to learn new ways (``better ways``) to do what we intend to do. This is exactly the gap between a junior dev and a mid-level dev. It is the technologies that a mid-level dev knows that a junior dev does not. 
 
 When you start to feel pretty confident with the technologies used in industry and you start to really see results, you can call yourself a mid-level dev. 
 
